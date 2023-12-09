@@ -34,3 +34,6 @@ test: find out how to switch players
 code:
 result:
 
+I am trying to see how my git works on this computer
+
+
